@@ -1,6 +1,4 @@
 # import pandas and matplotlib
-from distutils.command.install import INSTALL_SCHEMES
-from importlib import invalidate_caches
 import pandas as pd
 import matplotlib.pyplot as plt
 # read the csv file to a DataFrame
